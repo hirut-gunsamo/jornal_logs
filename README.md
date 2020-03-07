@@ -1,0 +1,1 @@
+# jornal_logs
